@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: |cffaad372Pet Training|r
+## Notes: Shows whether you have learned a hunter pet ability yet. Tooltip line plus a short raid-style notice.
+## Author: PetTraining
+## Version: 1.0.0
+## IconTexture: Interface\Icons\Ability_Hunter_BeastTraining
+## SavedVariablesPerCharacter: PetTrainingDB
+## OptionalDeps: Bartender4, Dominos, ElvUI
+## X-Category: Hunter
+## X-Compatible-With: forever
+
+PetTraining.lua
